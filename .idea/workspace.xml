@@ -6,22 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b3aec4b-2403-4a88-b893-f9b5d3636407" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/CreditCardInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/CreditCardInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/OrderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/RestaurantRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/domain/RestaurantRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/service/RestaurantInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/service/RestaurantInfoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/service/impl/DefaultOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/service/impl/DefaultOrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/demo/service/impl/RestaurantInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/demo/service/impl/RestaurantInfoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/src/main/java/demo/OrderProcessingSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/src/main/java/demo/OrderProcessingSink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/src/main/java/demo/domain/CreditCardInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/src/main/java/demo/domain/CreditCardInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/src/main/java/demo/domain/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/src/main/java/demo/domain/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/src/main/java/demo/domain/PaymentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/src/main/java/demo/domain/PaymentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/src/main/java/demo/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/src/main/java/demo/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/src/main/java/demo/service/impl/DefaultPaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/src/main/java/demo/service/impl/DefaultPaymentServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
