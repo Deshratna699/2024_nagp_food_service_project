@@ -1,4 +1,4 @@
-package main.java.demo.service.impl;
+package demo.service.impl;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import demo.domain.*;

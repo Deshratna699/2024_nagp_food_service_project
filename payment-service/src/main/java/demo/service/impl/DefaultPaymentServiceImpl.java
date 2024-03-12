@@ -1,4 +1,4 @@
-package main.java.demo.service.impl;
+package demo.service.impl;
 
 import demo.domain.Payment;
 import demo.domain.PaymentRepository;
@@ -9,7 +9,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 /**
- * Created by xiaofeng on 11/4/17.
+ * Created by Deshratna.
  */
 
 @Service

@@ -1,4 +1,4 @@
-package main.java.demo.service.impl;
+package demo.service.impl;
 
 import demo.domain.Restaurant;
 import demo.domain.RestaurantRepository;

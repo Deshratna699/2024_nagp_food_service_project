@@ -1,4 +1,4 @@
-package main.java.demo.service;
+package demo.service;
 
 import demo.domain.Order;
 

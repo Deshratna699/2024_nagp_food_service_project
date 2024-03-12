@@ -1,11 +1,11 @@
-package main.java.demo.service;
+package demo.service;
 
 import demo.domain.Payment;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
 /**
- * Created by xiaofeng on 11/4/17.
+ * Created by Deshratna..
  */
 public interface PaymentService {
     Payment save(Payment payment);

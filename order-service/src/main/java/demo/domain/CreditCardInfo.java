@@ -1,4 +1,4 @@
-package main.java.demo.domain;
+package demo.domain;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
